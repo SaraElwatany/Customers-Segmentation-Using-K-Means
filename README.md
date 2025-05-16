@@ -1,1 +1,1 @@
-# Customer-Segmentation-Using-K-Means
+# Customers Segmentation Using K-Means
